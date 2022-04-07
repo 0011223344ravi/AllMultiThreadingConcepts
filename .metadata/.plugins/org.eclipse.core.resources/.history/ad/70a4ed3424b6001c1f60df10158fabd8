@@ -1,0 +1,18 @@
+package com;
+//if thread t1 wants to wait until t2 completed then t1 need to call t2.join()
+//t1 will goto waiting state after that
+//after t2 completion t1 get its chance and completes
+
+class ThreadDemo6 extends Thread{
+	public void run() {
+		System.out.println("child thread");
+	}
+}
+public class RunExample {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

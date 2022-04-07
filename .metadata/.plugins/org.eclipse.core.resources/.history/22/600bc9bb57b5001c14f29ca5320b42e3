@@ -1,0 +1,16 @@
+package com;
+
+public class MyThread  extends Thread{
+	public void run() {
+		System.out.println("run");
+	}
+
+	public static void main(String[] args) {
+	
+		Thread t = new Thread();
+		t.start();
+		System.out.println("main");
+             
+	}
+
+}

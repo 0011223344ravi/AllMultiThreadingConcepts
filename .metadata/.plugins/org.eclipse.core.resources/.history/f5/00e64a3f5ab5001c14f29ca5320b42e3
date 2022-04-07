@@ -1,0 +1,18 @@
+package com;
+//normal therad class scenario:-case1
+class ThreadExmpl extends Thread {
+	
+	public void run () {
+		System.out.println("child thread ");
+	}
+}
+
+public class Case1 {
+
+	public static void main(String[] args) {
+		 
+		ThreadExmpl t = new ThreadExmpl();
+		t.start();
+	}
+
+}

@@ -1,0 +1,10 @@
+package com;
+//if thread t1 wants to wait until t2 completed then t1 need to call t2.join()
+public class RunExample {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

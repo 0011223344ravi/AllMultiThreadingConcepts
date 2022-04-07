@@ -1,0 +1,23 @@
+package com;
+//overloading of run () can be done but thread .start() will always call the void run ();
+
+
+class ThreadE extends Thread {
+	public void run (int t) {
+		System.out.println("this is arguemented run ()");
+	}
+	
+	public void run () {
+		
+	}
+}
+
+
+public class Case4 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

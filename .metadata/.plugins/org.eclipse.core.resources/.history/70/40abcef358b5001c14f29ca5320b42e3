@@ -1,0 +1,17 @@
+package com;
+
+
+class RunnableExample implements Runnable{
+	
+}
+
+public class MyRunnable   {
+
+	public static void main(String[] args) {
+	 
+
+	}
+	
+	
+
+}

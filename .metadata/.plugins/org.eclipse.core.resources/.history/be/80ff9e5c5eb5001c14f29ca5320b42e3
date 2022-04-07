@@ -1,0 +1,18 @@
+package com;
+//if we override start then our start will be called as a normal methods
+//no thread is created
+
+class ThreadDemo extends Thread {
+	
+	public void start() {
+		
+	}
+}
+public class Case6 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

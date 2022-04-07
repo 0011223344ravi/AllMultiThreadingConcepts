@@ -1,0 +1,15 @@
+package com;
+
+class Display{
+	
+	
+}
+
+public class SynchronizationExample {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

@@ -1,0 +1,13 @@
+package com;
+class DemoThread4 extends Thread{
+	
+}
+public class SleepExample {
+
+	public static void main(String[] args) {
+		
+		 
+
+	}
+
+}

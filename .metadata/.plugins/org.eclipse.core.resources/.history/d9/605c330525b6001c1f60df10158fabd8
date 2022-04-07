@@ -1,0 +1,16 @@
+package com;
+
+
+class DemoThread2 extends Thread{
+	public void run () {
+		System.out.println("child thread");
+	}
+}
+public class RunExample2 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

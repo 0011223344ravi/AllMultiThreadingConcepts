@@ -1,0 +1,14 @@
+package com;
+//normal therad class scenario:-case1
+class MyThread {
+	
+}
+
+public class Case1 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

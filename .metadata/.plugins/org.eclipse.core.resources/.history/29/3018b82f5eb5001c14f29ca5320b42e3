@@ -1,0 +1,10 @@
+package com;
+//if we override start then our start will be called as a normal methods
+public class Case6 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

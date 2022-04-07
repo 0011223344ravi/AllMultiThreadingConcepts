@@ -1,0 +1,23 @@
+package com;
+
+
+class RunnableExample implements Runnable{
+
+	@Override
+	public void run() {
+	System.out.println("child thread");
+		
+	}
+	
+}
+
+public class MyRunnable   {
+
+	public static void main(String[] args) {
+	 
+
+	}
+	
+	
+
+}

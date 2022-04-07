@@ -1,0 +1,18 @@
+package com;
+ 
+class DemoThread2 extends Thread{
+	public void run () {
+		System.out.println("child thread");
+		 
+	}
+}
+public class RunExample2 {
+
+	Thread mt =  Thread.currentThread(); 
+	public static void main(String[] args) {
+		DemoThread2 mt = Thread.currentThread();
+		DemoThread2 t = new DemoThread2();
+		t.start();
+	}
+
+}

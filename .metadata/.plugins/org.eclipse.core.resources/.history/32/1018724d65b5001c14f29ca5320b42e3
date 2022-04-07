@@ -1,0 +1,16 @@
+package com;
+class ThreadDemo5 extends Thread {
+	public void run () {
+		
+		System.out.println("child therad  priority "+Thread.currentThread().getPriority());
+	}
+}
+
+public class ThreadPriorities {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

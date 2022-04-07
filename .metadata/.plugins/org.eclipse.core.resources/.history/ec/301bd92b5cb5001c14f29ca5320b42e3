@@ -1,0 +1,11 @@
+package com;
+//overloading of run () can be done but thread .start() will always call the void run ();
+
+public class Case4 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

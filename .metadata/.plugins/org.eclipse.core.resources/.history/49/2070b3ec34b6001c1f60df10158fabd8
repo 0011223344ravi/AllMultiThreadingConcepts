@@ -1,0 +1,16 @@
+package com;
+
+//case 2 multiple threads are working on multiple objects 
+
+class Display{
+	
+}
+
+public class SynchronizationExampleCase2 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

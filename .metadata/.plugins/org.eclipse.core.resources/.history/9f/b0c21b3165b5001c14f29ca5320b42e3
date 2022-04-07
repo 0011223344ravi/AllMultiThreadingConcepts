@@ -1,0 +1,13 @@
+package com;
+class ThreadDemo5 extends Thread {
+	
+}
+
+public class ThreadPriorities {
+
+	public static void main(String[] args) {
+		
+
+	}
+
+}

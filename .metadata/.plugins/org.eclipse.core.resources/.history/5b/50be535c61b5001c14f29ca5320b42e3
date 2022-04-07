@@ -1,0 +1,14 @@
+package com;
+
+class ThreadDemo3 extends Thread {
+	
+}
+
+public class GettingAndSettingThreadName {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

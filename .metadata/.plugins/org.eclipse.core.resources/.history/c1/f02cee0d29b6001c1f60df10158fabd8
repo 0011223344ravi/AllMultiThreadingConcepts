@@ -1,0 +1,10 @@
+package com;
+
+public class SleepInterupptedExample {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

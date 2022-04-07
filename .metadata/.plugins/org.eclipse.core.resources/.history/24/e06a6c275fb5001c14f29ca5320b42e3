@@ -1,0 +1,12 @@
+package com;
+//creating a start method and calling parent start method in that
+//that will work like a normal multi threading example
+
+public class Case7 {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}

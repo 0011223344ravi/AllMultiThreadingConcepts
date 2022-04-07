@@ -1,0 +1,10 @@
+package com;
+//calling start method 2nd time will give RE:-IllegalThreadStateException
+public class Case8 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

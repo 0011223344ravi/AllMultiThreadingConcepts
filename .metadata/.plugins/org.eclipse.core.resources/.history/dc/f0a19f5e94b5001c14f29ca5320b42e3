@@ -1,0 +1,15 @@
+package com;
+
+class demoThread extends Thread{
+	
+	
+}
+
+public class YeildExample {
+
+	public static void main(String[] args) {
+		 
+
+	}
+
+}
